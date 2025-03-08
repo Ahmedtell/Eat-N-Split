@@ -1,8 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Eat-N-Split
+### 📌 Introduction
+Eat-N-Split is a simple React app that helps friends split bills easily and track who owes what.
+### 🛠️ Technologies Used
+- React (Interactive user interface)
+- CSS (Styling the interface)
+- PropTypes (Type checking for props)
+### 🎯 Main Features
+- Add new friends with a picture and an initial balance of 0€.
+- Select a friend to check the balance between you.
+- Split bills easily with your friend.
+- Update balance automatically based on the split bill.
